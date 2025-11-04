@@ -1,0 +1,14 @@
+#!/bin/bash
+#SBATCH --job-name=ARS_Testing_hydro+framework
+#SBATCH --time=20:00:00
+#SBATCH --mem=7g
+#SBATCH --nodes=1
+#SBATCH --cpus-per-task=1
+#SBATCH --account=mtcraig0
+#SBATCH --partition=standard
+
+# Load any necessary modules, e.g., Python
+module load python/3.10.4   
+source /home/mlchris/environ/assetra_env/bin/activate
+
+python ARS_Tests_0619.py --year 2050 --region_name NWPP
