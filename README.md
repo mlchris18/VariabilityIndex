@@ -1,1 +1,1 @@
-Code files from experimentation in Synthesizing Investment Portfolio Performance Across Climate Models to Address the Practitioner’s Dilemma. 
+Code files from experimentation in Christino, M., & Craig, M. (2026). Synthesizing energy system investment portfolio performance across climate models to address the practitioner’s dilemma. Environmental Research Letters, 21(1), 014016. https://doi.org/10.1088/1748-9326/ae2f74
